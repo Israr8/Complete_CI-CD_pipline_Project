@@ -1,0 +1,10 @@
+backend:
+  image:
+    repository: byisrar/backend
+    tag: latest
+
+frontend:
+  image:
+    repository: byisrar/frontend
+    tag: latest
+
