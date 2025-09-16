@@ -1,7 +1,7 @@
 backend:
   image:
     repository: byisrar/backend
-    tag: latest
+    tag: v1
 
 frontend:
   image:
